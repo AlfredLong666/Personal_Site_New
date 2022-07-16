@@ -1,0 +1,159 @@
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  /* background-color: #E4F9F5; */
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+h1 {
+  font-size: 400%;
+  margin: 50px 0 auto 0;
+  font-family: 'Cinzel', serif;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Ibarra Real Nova', serif;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 200%;
+}
+
+h3 {
+  font-family: 'Ibarra Real Nova', serif;
+  color: #11999E;
+}
+
+hr {
+  border: 6px dotted;
+  border-style: dotted none none none;
+  height: 2px;
+  width: 4%;
+  color: #D3D3D3;
+  /* border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); */
+}
+
+.basketball-pic {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+/* .basketball-description {
+  clear: left;
+} */
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me {
+  padding-bottom: 10px;
+}
+
+.contact-message {
+  margin-bottom: 50px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  margin-bottom: 0;
+}
+
+.description {
+  font-size: 2.5rem;
+}
+
+.footer-link {
+  margin: 0 16px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.middle-container {
+  /* background-color: #40514E; */
+}
+
+.personal-description {
+  max-width: 30%;
+  display: inline-block;
+}
+
+.profilePic {
+  max-width: 20%;
+  height: auto;
+  padding-top: 50px;
+}
+
+.pumpkin-pic {
+  width: 25%;
+  height: auto;
+  float: right;
+  margin-left: 30px;
+}
+
+/* .pumpkin-description {
+  clear: right;
+} */
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  text-align: right;
+  right: 200px;
+}
+
+.topContainer {
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  background-color: #EAF6F6;
+}
